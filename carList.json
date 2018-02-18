@@ -1,0 +1,26 @@
+{
+	"muscle":[{
+			"name": "ChevyNova",
+			"year":	"1968",
+			"horsePower": "325"	,
+			"color": "Blue"
+			},
+			{
+			"name": "ChevyNova",
+			"year":	"1968",
+			"horsePower": "325"	,
+			"color": "Blue"
+	}],
+	"tuner":{
+			"name": "NissanGtr",
+			"year":	"2016",
+			"horsePower": "545",
+			"color": "Gray"
+	},
+	"exotic":{
+			"name": "mclarenP1",
+			"year":	"2013",
+			"horsePower": "903",
+			"color": "Orange"
+	}
+}
